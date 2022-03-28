@@ -1,4 +1,4 @@
-module github.com/octeep/wireproxy
+module github.com/moondev/go-socks5
 
 go 1.18
 
